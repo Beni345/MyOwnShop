@@ -1,0 +1,657 @@
+<fotobook externalProjectId="" productvariant_visiblename="" createdWithHPSVersion="6004001" productname="ALB62" normalpages="26" projectIDCreatedEpoch="1553173667" totalpages="31" pagenaming="1" programversion="6004001" spotColor="digital_embossing" imagedir="190321_DM-Fotowelt_mcf-Dateien" compatibilityVersion="6002002" productvariant="pages:26" useSpineLogo="1" identifier="24b89a3a-da89-40ac-99f4-79d6661ef7ff" createdWithHPSVersionBuild="20181211" isDataMcf="0" art_id="8258" version="3.0" startdatecalendarium="" programversionBuild="20181211" projectID="c164bd9f-90fa-4d86-8c82-491805ec7e19" savetime="2019-04-16 21:24">
+ <pagenumbering bgcolor="#00000000" fontbold="0" format="0" textcolor="#ff000000" fontitalics="0" margin="110" fontsize="24" position="0" textstring="%" verticalMargin="50" fontfamily="Calibri">
+  <outline enabled="0" width="1"/>
+ </pagenumbering>
+ <extra>
+  <lastTextFormat backgroundColor="#00000000" Alignment="ALIGNHCENTER" VerticalIndentMargin="0" hasOutline="0" IndentMargin="5" font="Calibri,48,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000"/>
+ </extra>
+ <page type="fullcover" rotation="0" designStyleID="125282" pagenr="0">
+  <bundlesize height="2750" width="4275"/>
+  <designElementIDs background="6822" layout="125270"/>
+  <background type="1" rotation="0" templatename="6822,normal," alignment="4"/>
+  <background templatename="koordinaten_weiss_cover_back_portrait,normal" layout="1"/>
+  <area isResizable="0" top="1107" height="85" areatype="textarea" rotation="270" left="1037" width="2200" alpha="1" zposition="1">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <text areaTextType="content" isSpineText="1" applySpotColor="0"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Calibri'; font-size:12pt; font-weight:400; font-style:normal;">
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p></body></html>]]><outline enabled="0" width="1" color="#ff000000"/>
+    <textFormat backgroundColor="#00000000" Alignment="ALIGNLEADING,ALIGNVCENTER" VerticalIndentMargin="0" hasOutline="0" IndentMargin="0" font="Baskerville,12,-1,5,75,0,0,0,0,0" foregroundColor="#ff808080"/>
+   </text>
+  </area>
+  <area isResizable="1" top="110" height="2530" areatype="imagearea" rotation="0" left="126" width="1843" alpha="1" zposition="107">
+   <border enabled="1" position="outside" width="4" color="#ff707070" applySpotColor="0"/>
+   <image/>
+  </area>
+  <area isResizable="1" top="110" height="1228.965517241379" areatype="imagearea" rotation="0" left="2305.7" width="1843.6" alpha="1" zposition="110">
+   <border enabled="0" position="outside" width="5" color="#ffbbbbbb" applySpotColor="0"/>
+   <image/>
+  </area>
+  <area isResizable="1" top="1412.931034482759" height="1228.965517241379" areatype="imagearea" rotation="0" left="3267.404761904761" width="881.8952380952381" alpha="1" zposition="111">
+   <border enabled="0" position="outside" width="5" color="#ffbbbbbb" applySpotColor="0"/>
+   <image safeContainerLocation="persistent" top="-339" left="-358" useABK="1" scale="0.371418" filename="IMG_20190414_113147_1.jpeg">
+    <relationships>
+     <relationship nature="RELATIONSHIP_ONE_TO_ONE_COPY" parent="C:/Users/benja/Pictures/Fotobuch_2019/IMG_20190414_113147_1.jpg" child="IMG_20190414_113147_1.jpeg"/>
+    </relationships>
+   </image>
+  </area>
+  <area isResizable="1" top="1680.877904785795" height="953.8179194030324" areatype="imagearea" rotation="0" left="2315.499999999933" width="864.3887106611191" alpha="1" zposition="112">
+   <border enabled="0" position="outside" width="5" color="#ffbbbbbb" applySpotColor="0"/>
+   <image/>
+  </area>
+  <area isResizable="0" top="2623" height="42" areatype="spinelogoarea" rotation="270" left="2081" width="110" alpha="1" zposition="999">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+  </area>
+  <area isResizable="1" top="1410.400694766296" height="217" areatype="textarea" rotation="0" left="2338.604761904762" width="802.0857142857139" alpha="1" zposition="1003">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <text areaTextType="title" isSpineText="0" applySpotColor="0"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:48pt; color:#000000;">ANNA </span></p></td></tr></table></body></html>]]><outline enabled="0" width="1" color="#ff000000"/>
+    <textFormat backgroundColor="#00000000" Alignment="ALIGNHCENTER" VerticalIndentMargin="50" hasOutline="0" IndentMargin="5" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000"/>
+   </text>
+  </area>
+ </page>
+ <page type="spine" rotation="0" designStyleID="125282" pagenr="0">
+  <bundlesize height="2750" width="4275"/>
+  <designElementIDs background="6822"/>
+  <background type="1" rotation="0" templatename="6822,normal," alignment="4"/>
+ </page>
+ <page type="fullcover" rotation="0" designStyleID="125282" pagenr="0">
+  <bundlesize height="2750" width="4275"/>
+  <designElementIDs background="6822" layout="50284"/>
+  <background type="1" rotation="0" templatename="6822,normal," alignment="4"/>
+  <background templatename="cover_schema_portrait_023_y,normal" layout="1"/>
+ </page>
+ <page type="emptypage" rotation="0" designStyleID="-1" pagenr="0">
+  <bundlesize height="2700" width="4100"/>
+  <designElementIDs background="201"/>
+  <background type="1" rotation="0" templatename="Weiss,normal," alignment="1"/>
+  <area isResizable="1" top="110" height="1200" areatype="imagearea" rotation="0" left="2160" width="1830" alpha="1" zposition="102">
+   <border enabled="0" position="outside" width="5" color="#ffbbbbbb" applySpotColor="0"/>
+   <image safeContainerLocation="persistent" top="0" left="-521" useABK="1" scale="0.612245" filename="20190106_123542.jpeg">
+    <relationships>
+     <relationship nature="RELATIONSHIP_ONE_TO_ONE_COPY" parent="C:/Users/benja/Pictures/Fotobuch_2019/20190106_123542.jpg" child="20190106_123542.jpeg"/>
+    </relationships>
+   </image>
+  </area>
+  <area isResizable="1" top="1390" height="1200" areatype="imagearea" rotation="0" left="2160" width="1830" alpha="1" zposition="103">
+   <border enabled="0" position="outside" width="5" color="#ffbbbbbb" applySpotColor="0"/>
+   <image safeContainerLocation="persistent" top="0" left="-510" useABK="1" scale="0.612245" filename="20190113_120745.jpeg">
+    <relationships>
+     <relationship nature="RELATIONSHIP_ONE_TO_ONE_COPY" parent="C:/Users/benja/Pictures/Fotobuch_2019/20190113_120745.jpg" child="20190113_120745.jpeg"/>
+    </relationships>
+   </image>
+  </area>
+  <area isResizable="1" top="162" height="123" areatype="textarea" rotation="0" left="2228" width="460" alpha="1" zposition="1001">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <text areaTextType="content" isSpineText="0" applySpotColor="0"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:26pt; font-weight:600; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#ffffff;">06.01.2019</span></p></td></tr></table></body></html>]]><outline enabled="0" width="1"/>
+    <textFormat backgroundColor="#00000000" Alignment="ALIGNLEADING" VerticalIndentMargin="50" hasOutline="0" IndentMargin="5" font="Calibri,26,-1,5,75,0,0,0,0,0" foregroundColor="#ffffffff"/>
+   </text>
+  </area>
+  <area isResizable="1" top="2420" height="229" areatype="textarea" rotation="0" left="2208.034543399071" width="1734.965456600929" alpha="1" zposition="1002">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <text areaTextType="content" isSpineText="0" applySpotColor="0"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:26pt; font-weight:600; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p align="right" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Badenixe 13.01.2019</span></p></td></tr></table></body></html>]]><outline enabled="0" width="1"/>
+    <textFormat backgroundColor="#00000000" Alignment="ALIGNRIGHT" VerticalIndentMargin="50" hasOutline="0" IndentMargin="5" font="Calibri,26,-1,5,75,0,0,0,0,0" foregroundColor="#ffffffff"/>
+   </text>
+  </area>
+ </page>
+ <page type="normalpage" rotation="0" designStyleID="-1" pagenr="1">
+  <bundlesize height="2700" width="4100"/>
+  <designElementIDs background="6822" layout="125061"/>
+  <background type="1" rotation="0" templatename="6822,normal," alignment="3"/>
+  <background templatename="schema_portrait_002,normal" layout="1"/>
+ </page>
+ <page type="normalpage" rotation="0" designStyleID="-1" pagenr="2">
+  <bundlesize height="2700" width="4100"/>
+  <designElementIDs background="6822" layout="125062"/>
+  <background type="1" rotation="0" templatename="6822,normal," alignment="1"/>
+  <background templatename="schema_portrait_018_y,normal" layout="1"/>
+  <area isResizable="1" top="110" height="1627" areatype="imagearea" rotation="0" left="109.0000000000001" width="876" alpha="1" zposition="108">
+   <border enabled="0" position="outside" width="5" color="#ffbbbbbb" applySpotColor="0"/>
+   <image safeContainerLocation="persistent" top="-197" left="0" useABK="1" scale="0.446939" filename="20190106_132452.jpeg">
+    <relationships>
+     <relationship nature="RELATIONSHIP_ONE_TO_ONE_COPY" parent="C:/Users/benja/Pictures/Fotobuch_2019/20190106_132452.jpg" child="20190106_132452.jpeg"/>
+    </relationships>
+   </image>
+  </area>
+  <area isResizable="1" top="512" height="1615.477201356614" areatype="imagearea" rotation="0" left="1047" width="876" alpha="1" zposition="109">
+   <border enabled="0" position="outside" width="5" color="#ffbbbbbb" applySpotColor="0"/>
+   <image safeContainerLocation="persistent" top="-4" left="0" useABK="1" scale="0.446939" filename="20190106_133308.jpeg">
+    <relationships>
+     <relationship nature="RELATIONSHIP_ONE_TO_ONE_COPY" parent="C:/Users/benja/Pictures/Fotobuch_2019/20190106_133308.jpg" child="20190106_133308.jpeg"/>
+    </relationships>
+   </image>
+  </area>
+  <area isResizable="1" top="1817" height="774" areatype="imagearea" rotation="0" left="109" width="876" alpha="1" zposition="110">
+   <border enabled="0" position="outside" width="5" color="#ffbbbbbb" applySpotColor="0"/>
+   <image safeContainerLocation="persistent" top="-564" left="0" useABK="1" scale="0.446939" filename="20190110_111943.jpeg">
+    <relationships>
+     <relationship nature="RELATIONSHIP_ONE_TO_ONE_COPY" parent="C:/Users/benja/Pictures/Fotobuch_2019/20190110_111943.jpg" child="20190110_111943.jpeg"/>
+    </relationships>
+   </image>
+  </area>
+  <area isResizable="1" top="110" height="2480" areatype="imagearea" rotation="0" left="2160" width="1830" alpha="1" zposition="114">
+   <border enabled="0" position="outside" width="5" color="#ffbbbbbb" applySpotColor="0"/>
+   <image safeContainerLocation="persistent" top="-211" left="0" useABK="1" scale="0.933673" filename="20190120_083302.jpeg">
+    <relationships>
+     <relationship nature="RELATIONSHIP_ONE_TO_ONE_COPY" parent="C:/Users/benja/Pictures/Fotobuch_2019/20190120_083302.jpg" child="20190120_083302.jpeg"/>
+    </relationships>
+   </image>
+  </area>
+  <area isResizable="1" top="156.7820625549554" height="349" areatype="textarea" rotation="0" left="3380.772264790855" width="560.984800904409" alpha="1" zposition="1000">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <text areaTextType="content" isSpineText="0" applySpotColor="0"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:26pt; font-weight:600; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#ffffff;">It's coolman...</span></p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#ffffff;">20.01.2019</span></p><p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#000000;"><br /></p></td></tr></table></body></html>]]><outline enabled="0" width="1" color="#ff000000"/>
+    <textFormat backgroundColor="#00000000" Alignment="ALIGNLEADING" VerticalIndentMargin="50" hasOutline="0" IndentMargin="5" font="Calibri,26,-1,5,75,0,0,0,0,0" foregroundColor="#ff000000"/>
+   </text>
+  </area>
+  <area isResizable="1" top="138.4248210023866" height="305.9917095842231" areatype="textarea" rotation="0" left="1052.757191307625" width="870.6192689360635" alpha="1" zposition="1001">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <text areaTextType="content" isSpineText="0" applySpotColor="0"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:26pt; font-weight:600; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">Schnee...</span></p></td></tr></table></body></html>]]><outline enabled="0" width="1" color="#ff000000"/>
+    <textFormat backgroundColor="#00000000" Alignment="ALIGNLEADING" VerticalIndentMargin="50" hasOutline="0" IndentMargin="5" font="Calibri,26,-1,5,75,0,0,0,0,0" foregroundColor="#ff000000"/>
+   </text>
+  </area>
+  <area isResizable="1" top="2247.581962065067" height="273.2068835573418" areatype="textarea" rotation="0" left="1060.042708202487" width="877.9047858309259" alpha="1" zposition="1002">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <text areaTextType="content" isSpineText="0" applySpotColor="0"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:26pt; font-weight:600; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">...sehr viel Schnee</span></p></td></tr></table></body></html>]]><outline enabled="0" width="1" color="#ff000000"/>
+    <textFormat backgroundColor="#00000000" Alignment="ALIGNLEADING" VerticalIndentMargin="50" hasOutline="0" IndentMargin="5" font="Calibri,26,-1,5,75,0,0,0,0,0" foregroundColor="#ff000000"/>
+   </text>
+  </area>
+ </page>
+ <page type="normalpage" rotation="0" designStyleID="-1" pagenr="3">
+  <bundlesize height="2700" width="4100"/>
+  <designElementIDs background="6822" layout="125061"/>
+  <background type="1" rotation="0" templatename="6822,normal," alignment="3"/>
+  <background templatename="schema_portrait_001,normal" layout="1"/>
+ </page>
+ <page type="normalpage" rotation="0" designStyleID="-1" pagenr="4">
+  <bundlesize height="2700" width="4100"/>
+  <designElementIDs background="6822" layout="49959"/>
+  <background type="1" rotation="0" templatename="6822,normal," alignment="1"/>
+  <background templatename="schema_portrait_023_y,normal" layout="1"/>
+  <area isResizable="1" top="417" height="923" areatype="imagearea" rotation="0" left="2142" width="923" alpha="1" zposition="108">
+   <border enabled="0" position="outside" width="5" color="#ffbbbbbb" applySpotColor="0"/>
+   <image safeContainerLocation="persistent" top="-399" left="0" useABK="1" scale="0.769167" filename="IMG-20190106-WA0004.jpeg">
+    <relationships>
+     <relationship nature="RELATIONSHIP_ONE_TO_ONE_COPY" parent="C:/Users/benja/Pictures/Fotobuch_2019/IMG-20190106-WA0004.jpg" child="IMG-20190106-WA0004.jpeg"/>
+    </relationships>
+   </image>
+  </area>
+  <area isResizable="1" top="1360" height="923" areatype="imagearea" rotation="0" left="2142" width="923" alpha="1" zposition="109">
+   <border enabled="0" position="outside" width="5" color="#ffbbbbbb" applySpotColor="0"/>
+   <image safeContainerLocation="persistent" top="-283" left="-108" useABK="1" scale="0.848006" filename="IMG-20190126-WA0005.jpeg">
+    <relationships>
+     <relationship nature="RELATIONSHIP_ONE_TO_ONE_COPY" parent="C:/Users/benja/Pictures/Fotobuch_2019/IMG-20190126-WA0005.jpg" child="IMG-20190126-WA0005.jpeg"/>
+    </relationships>
+   </image>
+  </area>
+  <area isResizable="1" top="417" height="923" areatype="imagearea" rotation="0" left="3085" width="923" alpha="1" zposition="110">
+   <border enabled="0" position="outside" width="5" color="#ffbbbbbb" applySpotColor="0"/>
+   <image safeContainerLocation="persistent" top="0" left="-1036" useABK="1" scale="0.470918" filename="20190122_192230.jpeg">
+    <relationships>
+     <relationship nature="RELATIONSHIP_ONE_TO_ONE_COPY" parent="C:/Users/benja/Pictures/Fotobuch_2019/20190122_192230.jpg" child="20190122_192230.jpeg"/>
+    </relationships>
+   </image>
+  </area>
+  <area isResizable="1" top="1360" height="923" areatype="imagearea" rotation="0" left="3085" width="923" alpha="1" zposition="111">
+   <border enabled="0" position="outside" width="5" color="#ffbbbbbb" applySpotColor="0"/>
+   <image safeContainerLocation="persistent" top="-364" left="0" useABK="1" scale="0.406966" filename="IMG-20190304-WA0003.jpeg">
+    <relationships>
+     <relationship nature="RELATIONSHIP_MODIFIED_COPY" parent="C:/Users/benja/Pictures/Fotobuch_2019/IMG-20190304-WA0003.jpeg" child="IMG-20190304-WA0003.jpeg"/>
+    </relationships>
+   </image>
+  </area>
+  <area isResizable="1" top="110" height="1200" areatype="imagearea" rotation="0" left="109.9999999999998" width="1830" alpha="1" zposition="113">
+   <border enabled="0" position="outside" width="5" color="#ffbbbbbb" applySpotColor="0"/>
+   <image safeContainerLocation="persistent" top="0" left="-451" useABK="1" scale="0.612245" filename="20190120_183706.jpeg">
+    <relationships>
+     <relationship nature="RELATIONSHIP_ONE_TO_ONE_COPY" parent="C:/Users/benja/Pictures/Fotobuch_2019/20190120_183706.jpg" child="20190120_183706.jpeg"/>
+    </relationships>
+   </image>
+  </area>
+  <area isResizable="1" top="1389.211719633212" height="1201.576560733576" areatype="imagearea" rotation="0" left="1057.604823514634" width="888.7903529707319" alpha="1" zposition="114">
+   <border enabled="0" position="outside" width="5" color="#ffbbbbbb" applySpotColor="0"/>
+   <image safeContainerLocation="persistent" top="0" left="-62" useABK="1" scale="0.373015" filename="20190213_145824.jpeg">
+    <relationships>
+     <relationship nature="RELATIONSHIP_ONE_TO_ONE_COPY" parent="C:/Users/benja/Pictures/Fotobuch_2019/20190213_145824.jpg" child="20190213_145824.jpeg"/>
+    </relationships>
+   </image>
+  </area>
+  <area isResizable="1" top="1386.423439266424" height="1201.576560733576" areatype="imagearea" rotation="0" left="121" width="888.7903529707319" alpha="1" zposition="115">
+   <border enabled="0" position="outside" width="5" color="#ffbbbbbb" applySpotColor="0"/>
+   <image safeContainerLocation="persistent" top="0" left="0" useABK="1" scale="0.750985" filename="IMG-20190120-WA0001.jpeg">
+    <relationships>
+     <relationship nature="RELATIONSHIP_ONE_TO_ONE_COPY" parent="C:/Users/benja/Pictures/Fotobuch_2019/IMG-20190120-WA0001.jpg" child="IMG-20190120-WA0001.jpeg"/>
+    </relationships>
+   </image>
+  </area>
+  <area isResizable="1" top="2349.579198593141" height="270" areatype="textarea" rotation="0" left="2200.226102248461" width="834.1916844617517" alpha="1" zposition="1000">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <text areaTextType="content" isSpineText="0" applySpotColor="0"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:26pt; font-weight:600; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#a8d66a;">erster Mittagsbrei</span></p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#a8d66a;">26.01.2019</span></p></td></tr></table></body></html>]]><outline enabled="0" width="1" color="#ff000000"/>
+    <textFormat backgroundColor="#00000000" Alignment="ALIGNLEADING" VerticalIndentMargin="50" hasOutline="0" IndentMargin="5" font="Calibri,26,-1,5,75,0,0,0,0,0" foregroundColor="#ffffffff"/>
+   </text>
+  </area>
+  <area isResizable="1" top="2335.008164803417" height="349" areatype="textarea" rotation="0" left="3143.700540133149" width="845.1199598040444" alpha="1" zposition="1001">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <text areaTextType="content" isSpineText="0" applySpotColor="0"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:26pt; font-weight:600; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#a8d66a;">erster Abendbrei</span></p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#a8d66a;">04.03.2019</span></p><p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; color:#a8d66a;"><br /></p></td></tr></table></body></html>]]><outline enabled="0" width="1" color="#ff000000"/>
+    <textFormat backgroundColor="#00000000" Alignment="ALIGNLEADING" VerticalIndentMargin="50" hasOutline="0" IndentMargin="5" font="Calibri,26,-1,5,75,0,0,0,0,0" foregroundColor="#ffffffff"/>
+   </text>
+  </area>
+  <area isResizable="1" top="142.0675794498179" height="270" areatype="textarea" rotation="0" left="2138.29920864213" width="925.2606456475319" alpha="1" zposition="1002">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <text areaTextType="content" isSpineText="0" applySpotColor="0"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:26pt; font-weight:600; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#a8d66a;">Testkarotte</span></p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#a8d66a;">06.01.2019</span></p></td></tr></table></body></html>]]><outline enabled="0" width="1" color="#ff000000"/>
+    <textFormat backgroundColor="#00000000" Alignment="ALIGNLEADING" VerticalIndentMargin="50" hasOutline="0" IndentMargin="5" font="Calibri,26,-1,5,75,0,0,0,0,0" foregroundColor="#ffffffff"/>
+   </text>
+  </area>
+  <area isResizable="1" top="2222.010928275342" height="378.8468785328478" areatype="textarea" rotation="0" left="192.2551187036804" width="739.4799648285393" alpha="1" zposition="1003">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <text areaTextType="content" isSpineText="0" applySpotColor="0"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:26pt; font-weight:600; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#ffffff;">kleines Känguru</span></p><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#ffffff;">         20.01.2019</span></p></td></tr></table></body></html>]]><outline enabled="0" width="1" color="#ff000000"/>
+    <textFormat backgroundColor="#00000000" Alignment="ALIGNLEADING" VerticalIndentMargin="50" hasOutline="0" IndentMargin="5" font="Calibri,26,-1,5,75,0,0,0,0,0" foregroundColor="#ff000000"/>
+   </text>
+  </area>
+  <area isResizable="1" top="2404.148850646903" height="233.8511493530964" areatype="textarea" rotation="0" left="1497.413767114684" width="439.1420675794498" alpha="1" zposition="1004">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <text areaTextType="content" isSpineText="0" applySpotColor="0"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:26pt; font-weight:600; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#ffffff;">13.02.2019</span></p></td></tr></table></body></html>]]><outline enabled="0" width="1" color="#ff000000"/>
+    <textFormat backgroundColor="#00000000" Alignment="ALIGNLEADING" VerticalIndentMargin="50" hasOutline="0" IndentMargin="5" font="Calibri,26,-1,5,75,0,0,0,0,0" foregroundColor="#ffffffff"/>
+   </text>
+  </area>
+ </page>
+ <page type="normalpage" rotation="0" designStyleID="-1" pagenr="5">
+  <bundlesize height="2700" width="4100"/>
+  <designElementIDs background="6822" layout="125052"/>
+  <background type="1" rotation="0" templatename="6822,normal," alignment="3"/>
+  <background templatename="raster_portrait_square_large_02,normal" layout="1"/>
+ </page>
+ <page type="normalpage" rotation="0" designStyleID="-1" pagenr="6">
+  <bundlesize height="2700" width="4100"/>
+  <designElementIDs background="6822" layout="125043"/>
+  <background type="1" rotation="0" templatename="6822,normal," alignment="1"/>
+  <background templatename="raster_portrait_middle_large_000120,normal" layout="1"/>
+  <area isResizable="1" top="1310" height="840" areatype="imagearea" rotation="0" left="110" width="1830" alpha="1" zposition="108">
+   <border enabled="0" position="outside" width="5" color="#ffbbbbbb" applySpotColor="0"/>
+   <image safeContainerLocation="persistent" top="-187" left="-272" useABK="1" scale="0.551681" filename="20190131_1_094956.jpeg">
+    <relationships>
+     <relationship nature="RELATIONSHIP_MODIFIED_COPY" parent="20190131_094956.jpeg" child="20190131_1_094956.jpeg"/>
+     <relationship nature="RELATIONSHIP_ONE_TO_ONE_COPY" parent="C:/Users/benja/Pictures/Fotobuch_2019/20190131_094956.jpg" child="20190131_094956.jpeg"/>
+    </relationships>
+   </image>
+  </area>
+  <area isResizable="1" top="449.9999999999999" height="840" areatype="imagearea" rotation="0" left="110" width="1830" alpha="1" zposition="109">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <image/>
+  </area>
+  <area isResizable="1" top="1400" height="1050" areatype="imagearea" rotation="0" left="3100" width="850" alpha="1" zposition="122">
+   <border enabled="0" position="outside" width="5" color="#ffbbbbbb" applySpotColor="0"/>
+   <image safeContainerLocation="persistent" top="-4" left="0" useABK="1" scale="1.09395" filename="IMG-20190314-WA0005.jpeg">
+    <relationships>
+     <relationship nature="RELATIONSHIP_ONE_TO_ONE_COPY" parent="C:/Users/benja/Pictures/Fotobuch_2019/IMG-20190314-WA0005.jpg" child="IMG-20190314-WA0005.jpeg"/>
+    </relationships>
+   </image>
+  </area>
+  <area isResizable="1" top="1400" height="1057.285516894862" areatype="imagearea" rotation="0" left="2200" width="850" alpha="1" zposition="123">
+   <border enabled="0" position="outside" width="5" color="#ffbbbbbb" applySpotColor="0"/>
+   <image safeContainerLocation="persistent" top="-563" left="0" useABK="1" scale="0.433673" filename="20190214_110527.jpeg">
+    <relationships>
+     <relationship nature="RELATIONSHIP_ONE_TO_ONE_COPY" parent="C:/Users/benja/Pictures/Fotobuch_2019/20190214_110527.jpg" child="20190214_110527.jpeg"/>
+    </relationships>
+   </image>
+  </area>
+  <area isResizable="1" top="250" height="1100" areatype="imagearea" rotation="0" left="3100" width="850" alpha="1" zposition="124">
+   <border enabled="0" position="outside" width="5" color="#ffbbbbbb" applySpotColor="0"/>
+   <image safeContainerLocation="persistent" top="-369" left="0" useABK="1" scale="0.433673" filename="20190214_125326.jpeg">
+    <relationships>
+     <relationship nature="RELATIONSHIP_ONE_TO_ONE_COPY" parent="C:/Users/benja/Pictures/Fotobuch_2019/20190214_125326.jpg" child="20190214_125326.jpeg"/>
+    </relationships>
+   </image>
+  </area>
+  <area isResizable="1" top="250" height="1100" areatype="imagearea" rotation="0" left="2200" width="850" alpha="1" zposition="125">
+   <border enabled="0" position="outside" width="5" color="#ffbbbbbb" applySpotColor="0"/>
+   <image safeContainerLocation="persistent" top="-747" left="0" useABK="1" scale="0.433673" filename="20190211_151932.jpeg">
+    <relationships>
+     <relationship nature="RELATIONSHIP_ONE_TO_ONE_COPY" parent="C:/Users/benja/Pictures/Fotobuch_2019/20190211_151932.jpg" child="20190211_151932.jpeg"/>
+    </relationships>
+   </image>
+  </area>
+  <area isResizable="1" top="120.2110287652305" height="270" areatype="textarea" rotation="0" left="120.2110287652306" width="1806.808189925888" alpha="1" zposition="1000">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <text areaTextType="content" isSpineText="0" applySpotColor="0"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:26pt; font-weight:600; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#a8d66a;">Babymassage </span></p><p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#a8d66a;">Januar / Februar 2019</span></p></td></tr></table></body></html>]]><outline enabled="0" width="1" color="#ff000000"/>
+    <textFormat backgroundColor="#00000000" Alignment="ALIGNHCENTER" VerticalIndentMargin="50" hasOutline="0" IndentMargin="5" font="Calibri,26,-1,5,75,0,0,0,0,0" foregroundColor="#ffffffff"/>
+   </text>
+  </area>
+  <area isResizable="1" top="1150.724029644517" height="270" areatype="textarea" rotation="0" left="3438.645396306997" width="499.0579072980781" alpha="1" zposition="1001">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <text areaTextType="content" isSpineText="0" applySpotColor="0"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:26pt; font-weight:600; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">14.02.2019</span></p></td></tr></table></body></html>]]><outline enabled="0" width="1" color="#ff000000"/>
+    <textFormat backgroundColor="#00000000" Alignment="ALIGNLEADING" VerticalIndentMargin="50" hasOutline="0" IndentMargin="5" font="Calibri,26,-1,5,75,0,0,0,0,0" foregroundColor="#ffa8d66a"/>
+   </text>
+  </area>
+  <area isResizable="1" top="1154.968220072855" height="270" areatype="textarea" rotation="0" left="2575.763974375079" width="466.273081271197" alpha="1" zposition="1002">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <text areaTextType="content" isSpineText="0" applySpotColor="0"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:26pt; font-weight:600; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">11.02.2019</span></p></td></tr></table></body></html>]]><outline enabled="0" width="1" color="#ff000000"/>
+    <textFormat backgroundColor="#00000000" Alignment="ALIGNLEADING" VerticalIndentMargin="50" hasOutline="0" IndentMargin="5" font="Calibri,26,-1,5,75,0,0,0,0,0" foregroundColor="#ffa8d66a"/>
+   </text>
+  </area>
+  <area isResizable="1" top="2251.039944730562" height="270" areatype="textarea" rotation="0" left="2601.501946991584" width="437.1310136917473" alpha="1" zposition="1003">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <text areaTextType="content" isSpineText="0" applySpotColor="0"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:26pt; font-weight:600; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#ffffff;">02.03.2019</span></p></td></tr></table></body></html>]]><outline enabled="0" width="1" color="#ff000000"/>
+    <textFormat backgroundColor="#00000000" Alignment="ALIGNLEADING" VerticalIndentMargin="50" hasOutline="0" IndentMargin="5" font="Calibri,26,-1,5,75,0,0,0,0,0" foregroundColor="#ffa8d66a"/>
+   </text>
+  </area>
+  <area isResizable="1" top="2255.295063434242" height="270" areatype="textarea" rotation="0" left="3504.832935560859" width="442.7848260268811" alpha="1" zposition="1004">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <text areaTextType="content" isSpineText="0" applySpotColor="0"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:26pt; font-weight:600; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">14.03.2019</span></p></td></tr></table></body></html>]]><outline enabled="0" width="1" color="#ff000000"/>
+    <textFormat backgroundColor="#00000000" Alignment="ALIGNLEADING" VerticalIndentMargin="50" hasOutline="0" IndentMargin="5" font="Calibri,26,-1,5,75,0,0,0,0,0" foregroundColor="#ffa8d66a"/>
+   </text>
+  </area>
+ </page>
+ <page type="normalpage" rotation="0" designStyleID="-1" pagenr="7">
+  <bundlesize height="2700" width="4100"/>
+  <designElementIDs background="6822" layout="129195"/>
+  <background type="1" rotation="0" templatename="6822,normal," alignment="3"/>
+  <background templatename="ab_in_den_sueden_page_017_portrait,normal" layout="1"/>
+ </page>
+ <page type="normalpage" rotation="0" designStyleID="-1" pagenr="8">
+  <bundlesize height="2700" width="4100"/>
+  <designElementIDs background="6822" layout="125061"/>
+  <background type="1" rotation="0" templatename="6822,normal," alignment="1"/>
+  <background templatename="schema_portrait_011,normal" layout="1"/>
+  <area isResizable="1" top="110" height="774" areatype="imagearea" rotation="0" left="110" width="1830" alpha="1" zposition="104">
+   <border enabled="0" position="outside" width="5" color="#ffbbbbbb" applySpotColor="0"/>
+   <image safeContainerLocation="persistent" top="-7" left="0" useABK="1" scale="0.453869" filename="20190216_115455.jpeg">
+    <relationships>
+     <relationship nature="RELATIONSHIP_ONE_TO_ONE_COPY" parent="C:/Users/benja/Pictures/Fotobuch_2019/20190216_115455.jpg" child="20190216_115455.jpeg"/>
+    </relationships>
+   </image>
+  </area>
+  <area isResizable="1" top="963" height="1630.048235146338" areatype="imagearea" rotation="0" left="110" width="876" alpha="1" zposition="105">
+   <border enabled="0" position="outside" width="5" color="#ffbbbbbb" applySpotColor="0"/>
+   <image safeContainerLocation="persistent" top="0" left="0" useABK="1" scale="0.446939" filename="20190216_132121.jpeg">
+    <relationships>
+     <relationship nature="RELATIONSHIP_ONE_TO_ONE_COPY" parent="C:/Users/benja/Pictures/Fotobuch_2019/20190216_132121.jpg" child="20190216_132121.jpeg"/>
+    </relationships>
+   </image>
+  </area>
+  <area isResizable="1" top="1611" height="981.6372315035798" areatype="imagearea" rotation="0" left="1061" width="876" alpha="1" zposition="106">
+   <border enabled="0" position="outside" width="5" color="#ffbbbbbb" applySpotColor="0"/>
+   <image safeContainerLocation="persistent" top="-705" left="0" useABK="1" scale="0.446939" filename="20190216_115442.jpeg">
+    <relationships>
+     <relationship nature="RELATIONSHIP_ONE_TO_ONE_COPY" parent="C:/Users/benja/Pictures/Fotobuch_2019/20190216_115442.jpg" child="20190216_115442.jpeg"/>
+    </relationships>
+   </image>
+  </area>
+  <area isResizable="1" top="110" height="1200" areatype="imagearea" rotation="0" left="2160" width="876" alpha="1" zposition="107">
+   <border enabled="0" position="outside" width="0" color="#ff000000" applySpotColor="0"/>
+   <image/>
+  </area>
+  <area isResizable="1" top="110" height="774" areatype="imagearea" rotation="0" left="3115" width="876" alpha="1" zposition="108">
+   <border enabled="0" position="outside" width="0" color="#ff000000" applySpotColor="0"/>
+   <image/>
+  </area>
+  <area isResizable="1" top="963" height="774" areatype="imagearea" rotation="0" left="3115" width="876" alpha="1" zposition="109">
+   <border enabled="0" position="outside" width="0" color="#ff000000" applySpotColor="0"/>
+   <image/>
+  </area>
+  <area isResizable="1" top="1390" height="1200" areatype="imagearea" rotation="0" left="2160" width="876" alpha="1" zposition="110">
+   <border enabled="0" position="outside" width="0" color="#ff000000" applySpotColor="0"/>
+   <image/>
+  </area>
+  <area isResizable="1" top="1817" height="774" areatype="imagearea" rotation="0" left="3115" width="876" alpha="1" zposition="111">
+   <border enabled="0" position="outside" width="0" color="#ff000000" applySpotColor="0"/>
+   <image/>
+  </area>
+  <area isResizable="1" top="976.259263911569" height="546.4137671146841" areatype="textarea" rotation="0" left="1056.399949755056" width="877.9047858309257" alpha="1" zposition="1000">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <text areaTextType="content" isSpineText="0" applySpotColor="0"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"><html><head><meta name="qrichtext" content="1" /><style type="text/css">p, li { white-space: pre-wrap; }</style></head><body style=" font-family:'Calibri'; font-size:16pt; font-weight:400; font-style:normal;"><table style="-qt-table-type: root; margin-top:5px; margin-bottom:5px; margin-left:5px; margin-right:5px;"><tr><td style="border: none;"><p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:48pt; color:#000000;">Wilhelma</span></p><p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:48pt; color:#000000;">16.02.2019</span></p></td></tr></table></body></html>]]><outline enabled="0" width="1" color="#ff000000"/>
+    <textFormat backgroundColor="#00000000" Alignment="ALIGNHCENTER" VerticalIndentMargin="50" hasOutline="0" IndentMargin="5" font="Calibri,16,-1,5,50,0,0,0,0,0" foregroundColor="#ff000000"/>
+   </text>
+  </area>
+ </page>
+ <page type="normalpage" rotation="0" designStyleID="-1" pagenr="9">
+  <bundlesize height="2700" width="4100"/>
+  <designElementIDs background="6822" layout="125061"/>
+  <background type="1" rotation="0" templatename="6822,normal," alignment="3"/>
+  <background templatename="schema_portrait_005,normal" layout="1"/>
+ </page>
+ <page type="normalpage" rotation="0" designStyleID="-1" pagenr="10">
+  <bundlesize height="2700" width="4100"/>
+  <designElementIDs background="6822" layout="125061"/>
+  <background type="1" rotation="0" templatename="6822,normal," alignment="1"/>
+  <background templatename="schema_portrait_002,normal" layout="1"/>
+  <area isResizable="1" top="110" height="1200" areatype="imagearea" rotation="0" left="110" width="1830" alpha="1" zposition="100">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <image/>
+  </area>
+  <area isResizable="1" top="1390" height="1200" areatype="imagearea" rotation="0" left="110" width="1830" alpha="1" zposition="101">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <image/>
+  </area>
+  <area isResizable="1" top="110" height="1200" areatype="imagearea" rotation="0" left="2160" width="1830" alpha="1" zposition="102">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <image/>
+  </area>
+  <area isResizable="1" top="1390" height="1200" areatype="imagearea" rotation="0" left="2160" width="1830" alpha="1" zposition="103">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <image/>
+  </area>
+ </page>
+ <page type="normalpage" rotation="0" designStyleID="-1" pagenr="11">
+  <bundlesize height="2700" width="4100"/>
+  <designElementIDs background="6822" layout="125061"/>
+  <background type="1" rotation="0" templatename="6822,normal," alignment="3"/>
+  <background templatename="schema_portrait_002,normal" layout="1"/>
+ </page>
+ <page type="normalpage" rotation="0" designStyleID="-1" pagenr="12">
+  <bundlesize height="2700" width="4100"/>
+  <designElementIDs background="6822" layout="125061"/>
+  <background type="1" rotation="0" templatename="6822,normal," alignment="1"/>
+  <background templatename="schema_portrait_002,normal" layout="1"/>
+  <area isResizable="1" top="110" height="1200" areatype="imagearea" rotation="0" left="110" width="1830" alpha="1" zposition="100">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <image/>
+  </area>
+  <area isResizable="1" top="1390" height="1200" areatype="imagearea" rotation="0" left="110" width="1830" alpha="1" zposition="101">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <image/>
+  </area>
+  <area isResizable="1" top="110" height="1200" areatype="imagearea" rotation="0" left="2160" width="1830" alpha="1" zposition="102">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <image/>
+  </area>
+  <area isResizable="1" top="1390" height="1200" areatype="imagearea" rotation="0" left="2160" width="1830" alpha="1" zposition="103">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <image/>
+  </area>
+ </page>
+ <page type="normalpage" rotation="0" designStyleID="-1" pagenr="13">
+  <bundlesize height="2700" width="4100"/>
+  <designElementIDs background="6822" layout="125061"/>
+  <background type="1" rotation="0" templatename="6822,normal," alignment="3"/>
+  <background templatename="schema_portrait_002,normal" layout="1"/>
+ </page>
+ <page type="normalpage" rotation="0" designStyleID="-1" pagenr="14">
+  <bundlesize height="2700" width="4100"/>
+  <designElementIDs background="6822" layout="125061"/>
+  <background type="1" rotation="0" templatename="6822,normal," alignment="1"/>
+  <background templatename="schema_portrait_002,normal" layout="1"/>
+  <area isResizable="1" top="110" height="1200" areatype="imagearea" rotation="0" left="110" width="1830" alpha="1" zposition="100">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <image/>
+  </area>
+  <area isResizable="1" top="1390" height="1200" areatype="imagearea" rotation="0" left="110" width="1830" alpha="1" zposition="101">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <image/>
+  </area>
+  <area isResizable="1" top="110" height="1200" areatype="imagearea" rotation="0" left="2160" width="1830" alpha="1" zposition="102">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <image/>
+  </area>
+  <area isResizable="1" top="1390" height="1200" areatype="imagearea" rotation="0" left="2160" width="1830" alpha="1" zposition="103">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <image/>
+  </area>
+ </page>
+ <page type="normalpage" rotation="0" designStyleID="-1" pagenr="15">
+  <bundlesize height="2700" width="4100"/>
+  <designElementIDs background="6822" layout="125061"/>
+  <background type="1" rotation="0" templatename="6822,normal," alignment="3"/>
+  <background templatename="schema_portrait_002,normal" layout="1"/>
+ </page>
+ <page type="normalpage" rotation="0" designStyleID="-1" pagenr="16">
+  <bundlesize height="2700" width="4100"/>
+  <designElementIDs background="6822" layout="125061"/>
+  <background type="1" rotation="0" templatename="6822,normal," alignment="1"/>
+  <background templatename="schema_portrait_002,normal" layout="1"/>
+  <area isResizable="1" top="110" height="1200" areatype="imagearea" rotation="0" left="110" width="1830" alpha="1" zposition="100">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <image/>
+  </area>
+  <area isResizable="1" top="1390" height="1200" areatype="imagearea" rotation="0" left="110" width="1830" alpha="1" zposition="101">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <image/>
+  </area>
+  <area isResizable="1" top="110" height="1200" areatype="imagearea" rotation="0" left="2160" width="1830" alpha="1" zposition="102">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <image/>
+  </area>
+  <area isResizable="1" top="1390" height="1200" areatype="imagearea" rotation="0" left="2160" width="1830" alpha="1" zposition="103">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <image/>
+  </area>
+ </page>
+ <page type="normalpage" rotation="0" designStyleID="-1" pagenr="17">
+  <bundlesize height="2700" width="4100"/>
+  <designElementIDs background="6822" layout="125061"/>
+  <background type="1" rotation="0" templatename="6822,normal," alignment="3"/>
+  <background templatename="schema_portrait_002,normal" layout="1"/>
+ </page>
+ <page type="normalpage" rotation="0" designStyleID="-1" pagenr="18">
+  <bundlesize height="2700" width="4100"/>
+  <designElementIDs background="6822" layout="125061"/>
+  <background type="1" rotation="0" templatename="6822,normal," alignment="1"/>
+  <background templatename="schema_portrait_002,normal" layout="1"/>
+  <area isResizable="1" top="110" height="1200" areatype="imagearea" rotation="0" left="110" width="1830" alpha="1" zposition="100">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <image/>
+  </area>
+  <area isResizable="1" top="1390" height="1200" areatype="imagearea" rotation="0" left="110" width="1830" alpha="1" zposition="101">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <image/>
+  </area>
+  <area isResizable="1" top="110" height="1200" areatype="imagearea" rotation="0" left="2160" width="1830" alpha="1" zposition="102">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <image/>
+  </area>
+  <area isResizable="1" top="1390" height="1200" areatype="imagearea" rotation="0" left="2160" width="1830" alpha="1" zposition="103">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <image/>
+  </area>
+ </page>
+ <page type="normalpage" rotation="0" designStyleID="-1" pagenr="19">
+  <bundlesize height="2700" width="4100"/>
+  <designElementIDs background="6822" layout="125061"/>
+  <background type="1" rotation="0" templatename="6822,normal," alignment="3"/>
+  <background templatename="schema_portrait_002,normal" layout="1"/>
+ </page>
+ <page type="normalpage" rotation="0" designStyleID="-1" pagenr="20">
+  <bundlesize height="2700" width="4100"/>
+  <designElementIDs background="6822" layout="125061"/>
+  <background type="1" rotation="0" templatename="6822,normal," alignment="1"/>
+  <background templatename="schema_portrait_002,normal" layout="1"/>
+  <area isResizable="1" top="110" height="1200" areatype="imagearea" rotation="0" left="110" width="1830" alpha="1" zposition="100">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <image/>
+  </area>
+  <area isResizable="1" top="1390" height="1200" areatype="imagearea" rotation="0" left="110" width="1830" alpha="1" zposition="101">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <image/>
+  </area>
+  <area isResizable="1" top="110" height="1200" areatype="imagearea" rotation="0" left="2160" width="1830" alpha="1" zposition="102">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <image/>
+  </area>
+  <area isResizable="1" top="1390" height="1200" areatype="imagearea" rotation="0" left="2160" width="1830" alpha="1" zposition="103">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <image/>
+  </area>
+ </page>
+ <page type="normalpage" rotation="0" designStyleID="-1" pagenr="21">
+  <bundlesize height="2700" width="4100"/>
+  <designElementIDs background="6822" layout="125061"/>
+  <background type="1" rotation="0" templatename="6822,normal," alignment="3"/>
+  <background templatename="schema_portrait_002,normal" layout="1"/>
+ </page>
+ <page type="normalpage" rotation="0" designStyleID="-1" pagenr="22">
+  <bundlesize height="2700" width="4100"/>
+  <designElementIDs background="6822" layout="125061"/>
+  <background type="1" rotation="0" templatename="6822,normal," alignment="1"/>
+  <background templatename="schema_portrait_002,normal" layout="1"/>
+  <area isResizable="1" top="110" height="1200" areatype="imagearea" rotation="0" left="110" width="1830" alpha="1" zposition="100">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <image/>
+  </area>
+  <area isResizable="1" top="1390" height="1200" areatype="imagearea" rotation="0" left="110" width="1830" alpha="1" zposition="101">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <image/>
+  </area>
+  <area isResizable="1" top="110" height="1200" areatype="imagearea" rotation="0" left="2160" width="1830" alpha="1" zposition="102">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <image/>
+  </area>
+  <area isResizable="1" top="1390" height="1200" areatype="imagearea" rotation="0" left="2160" width="1830" alpha="1" zposition="103">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <image/>
+  </area>
+ </page>
+ <page type="normalpage" rotation="0" designStyleID="-1" pagenr="23">
+  <bundlesize height="2700" width="4100"/>
+  <designElementIDs background="6822" layout="125061"/>
+  <background type="1" rotation="0" templatename="6822,normal," alignment="3"/>
+  <background templatename="schema_portrait_002,normal" layout="1"/>
+ </page>
+ <page type="normalpage" rotation="0" designStyleID="-1" pagenr="24">
+  <bundlesize height="2700" width="4100"/>
+  <designElementIDs background="6822" layout="125061"/>
+  <background type="1" rotation="0" templatename="6822,normal," alignment="1"/>
+  <background templatename="schema_portrait_002,normal" layout="1"/>
+  <area isResizable="1" top="110" height="1200" areatype="imagearea" rotation="0" left="110" width="1830" alpha="1" zposition="100">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <image/>
+  </area>
+  <area isResizable="1" top="1390" height="1200" areatype="imagearea" rotation="0" left="110" width="1830" alpha="1" zposition="101">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <image/>
+  </area>
+  <area isResizable="1" top="110" height="1200" areatype="imagearea" rotation="0" left="2160" width="1830" alpha="1" zposition="102">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <image/>
+  </area>
+  <area isResizable="1" top="1390" height="1200" areatype="imagearea" rotation="0" left="2160" width="1830" alpha="1" zposition="103">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <image/>
+  </area>
+ </page>
+ <page type="normalpage" rotation="0" designStyleID="-1" pagenr="25">
+  <bundlesize height="2700" width="4100"/>
+  <designElementIDs background="6822" layout="125061"/>
+  <background type="1" rotation="0" templatename="6822,normal," alignment="3"/>
+  <background templatename="schema_portrait_002,normal" layout="1"/>
+ </page>
+ <page type="normalpage" rotation="0" designStyleID="-1" pagenr="26">
+  <bundlesize height="2700" width="4100"/>
+  <designElementIDs background="6822" layout="125061"/>
+  <background type="1" rotation="0" templatename="6822,normal," alignment="1"/>
+  <background templatename="schema_portrait_002,normal" layout="1"/>
+  <area isResizable="1" top="110" height="1200" areatype="imagearea" rotation="0" left="110" width="1830" alpha="1" zposition="100">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <image/>
+  </area>
+  <area isResizable="1" top="1390" height="1200" areatype="imagearea" rotation="0" left="110" width="1830" alpha="1" zposition="101">
+   <border enabled="0" position="outside" width="2" color="#ff000000" applySpotColor="0"/>
+   <image/>
+  </area>
+ </page>
+ <page type="emptypage" rotation="0" designStyleID="-1" pagenr="0">
+  <bundlesize height="2700" width="4100"/>
+  <designElementIDs background="201"/>
+  <background type="1" rotation="0" templatename="Weiss,normal," alignment="3"/>
+ </page>
+ <userfeedback></userfeedback>
+ <statistics fotosAdded="180" fotosRemoved="65" countPauses="4" elapsedTimeNet="37291" elapsedTimeGross="2019-03-21T14:07:47" pauseTime="30235" assistantUsed="0" sessionsUsed="6"/>
+</fotobook>
